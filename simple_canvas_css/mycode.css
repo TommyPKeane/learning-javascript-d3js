@@ -1,0 +1,25 @@
+body {
+  width: 100vw;
+  height: 100vh;
+  margin: 0px 0px 0px 0px;
+  padding: 0px 0px 0px 0px;
+  text-align: center;
+  background-color: rgba(255, 255, 255, 1.0);
+}
+
+h1 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+.svg_container {
+  width: 70vw;
+  height: 39.5vw; /* 70 / 1.77778 = 39.5*/
+  display: block;
+  border: 2px solid rgba(0, 0, 0, 1.0);
+  margin-left: auto;
+  margin-right: auto;
+  padding: 5px 5px 5px 5px;
+}
